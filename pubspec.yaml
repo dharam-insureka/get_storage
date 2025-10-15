@@ -9,7 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get: ">=4.0.0 <6.0.0"
+  get_storage:
+    git:
+      url: https://github.com/dharambudh1/get_storage.git
   path_provider: ^2.0.1
   #platform_info: ^3.0.0-nullsafety.1
 
