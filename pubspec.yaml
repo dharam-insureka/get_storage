@@ -9,9 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get_storage:
+  horizon:
     git:
-      url: https://github.com/dharambudh1/get_storage.git
+      url: https://github.com/dharam-insureka/horizon.git
   path_provider: ^2.0.1
   #platform_info: ^3.0.0-nullsafety.1
 
